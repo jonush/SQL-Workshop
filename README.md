@@ -1,45 +1,5 @@
-# (GitHub-Flavored) Markdown Editor
-
-Basic useful feature list:
-
- * Ctrl+S / Cmd+S to save the file
- * Ctrl+Shift+S / Cmd+Shift+S to choose to save as Markdown or HTML
- * Drag and drop a file into here to load it
- * File contents are saved in the URL so you can share files
-
-
-I'm no good at writing sample / filler text, so go write something yourself.
-
-Look, a list!
-
- * foo
- * bar
- * baz
-
-And here's some code! :+1:
-
-```javascript
-$(function(){
-  $('div').html('I am a div.');
-});
-```
-
-This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've b0rked it somewhere.
-
-
-Props to Mr. Doob and his [code editor](http://mrdoob.com/projects/code-editor/), from which
-the inspiration to this, and some handy implementation hints, came.
-
-### Stuff used to make this:
-
- * [markdown-it](https://github.com/markdown-it/markdown-it) for Markdown parsing
- * [CodeMirror](http://codemirror.net/) for the awesome syntax-highlighted editor
- * [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) for syntax highlighting in output code blocks
- * [js-deflate](https://github.com/dankogai/js-deflate) for gzipping of data to make it fit in URLs
-
-
 # UCSB Data Science and FACTOR Hold Successful SQL Workshop
- 
+![](images/raul_cover.jpg) 
 This past Saturday, UCSB Data Science and the Female Actuarial Organization (FACTOR) came together to host a SQL workshop. The event began at 9:30 in the morning, ending sometime around 1:00 in the afternoon. The event witnessed a successful turnout, as the computer lab was packed full of attendees soon after the event began. For those who are unfamiliar, SQL (Structured Query Language) is a programming language used in database management systems. Raul Eulogio, who does data work at the Hospice of Santa Barbara, led the workshop, guiding attendees through the concepts of SQL. 
  
 In the workshop, attendees learned SQL concepts necessary in utilizing MySQL, a database management system. Attendees were provided with hands-on data, which was used in helping them grasp the concepts. Raul provided a live demonstration of SQL for the attendees, as he worked through each action and line of code. Progressing through the workshop, Raul demonstrated the significance of using SQL for MySQL by completing examples of using MySQL to retrieve information from separate databases. Raul hoped that all attendees would be leaving the workshop with an understanding of SQL, having an extra tool available to present on their résumés. 
